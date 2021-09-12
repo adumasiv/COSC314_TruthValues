@@ -4,3 +4,35 @@ Disjunction
 Exclusive Or
 Implication
 Biconditional
+
+Output:
+
+Conjunction:
+True
+False
+False
+False
+
+Disjunction:
+True
+True
+True
+False
+
+Exclusive Or:
+False
+True
+True
+False
+
+Implication:
+True
+False
+True
+True
+
+Biconditional:
+True
+False
+False
+True
