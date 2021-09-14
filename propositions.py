@@ -34,5 +34,5 @@ for i in range(0,len(p)):
     else:
         print(False)
 
-
+#Everything in this project looked great
 
